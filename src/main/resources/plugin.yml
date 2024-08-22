@@ -1,0 +1,14 @@
+name: EzFly
+version: '1.0'
+main: mel.Polokalap.ezFly.EzFly
+api-version: '1.20'
+authors: [ Polokalap ]
+description: Polokalap's plugin
+website: [ autizm.us, cute-femboy.wiki]
+commands:
+  fly:
+    usage: /fly
+    description: Makes the player fly
+permissions:
+  ezfly.fly:
+    default: op
